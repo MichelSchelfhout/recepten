@@ -1,0 +1,70 @@
+body{
+	
+	font-family: Verdana;
+	background-color: rgba(173, 173, 173, .5);
+	width: 900px;
+	margin: 0 auto;
+}
+
+h1{
+	
+	font-weight: bolder;
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 20px;
+	color: rgba(15, 168, 158, 1);
+	height: 50px;
+	background-color: rgba(0, 0, 0, 1);
+}
+
+h3{
+	
+	font-weight: bolder;
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 20px;
+	color: rgba(15, 168, 158, 1);
+	height: 50px;
+	background-color: rgba(0, 0, 0, 1);
+}
+
+p{
+
+	padding-left: 10px;
+
+}
+
+h4{
+
+	padding-left: 10px;
+
+}
+
+#shoarma{
+
+	float: right;
+	padding-bottom: 20px;
+
+}
+
+#kruiden{
+
+	float: right;
+
+}
+
+#gekruid{ 
+
+	float: left;
+	
+ }
+
+ #Bronnen{
+
+	float: left;
+	font-style: italic;
+	font-weight: bold;
+
+ }
+
+
